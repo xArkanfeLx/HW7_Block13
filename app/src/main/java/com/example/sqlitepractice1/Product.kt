@@ -1,3 +1,3 @@
 package com.example.sqlitepractice1
 
-class Product (val name:String,val weight:String,val price:String)
+class Product (val name:String,val weight:String,val price:String,val id:Int)
