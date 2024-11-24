@@ -1,4 +1,4 @@
-package com.example.sqlite
+package com.example.sqlitepractice1
 
 import android.content.ContentValues
 import android.content.Context
